@@ -1,0 +1,14 @@
+R:\VAP\3.ročník\Basic_calculator\Basic_calculator\bin\Debug\net8.0\Basic_calculator.exe
+R:\VAP\3.ročník\Basic_calculator\Basic_calculator\bin\Debug\net8.0\Basic_calculator.deps.json
+R:\VAP\3.ročník\Basic_calculator\Basic_calculator\bin\Debug\net8.0\Basic_calculator.runtimeconfig.json
+R:\VAP\3.ročník\Basic_calculator\Basic_calculator\bin\Debug\net8.0\Basic_calculator.dll
+R:\VAP\3.ročník\Basic_calculator\Basic_calculator\bin\Debug\net8.0\Basic_calculator.pdb
+R:\VAP\3.ročník\Basic_calculator\Basic_calculator\obj\Debug\net8.0\Basic_calculator.GeneratedMSBuildEditorConfig.editorconfig
+R:\VAP\3.ročník\Basic_calculator\Basic_calculator\obj\Debug\net8.0\Basic_calculator.AssemblyInfoInputs.cache
+R:\VAP\3.ročník\Basic_calculator\Basic_calculator\obj\Debug\net8.0\Basic_calculator.AssemblyInfo.cs
+R:\VAP\3.ročník\Basic_calculator\Basic_calculator\obj\Debug\net8.0\Basic_calculator.csproj.CoreCompileInputs.cache
+R:\VAP\3.ročník\Basic_calculator\Basic_calculator\obj\Debug\net8.0\Basic_calculator.dll
+R:\VAP\3.ročník\Basic_calculator\Basic_calculator\obj\Debug\net8.0\refint\Basic_calculator.dll
+R:\VAP\3.ročník\Basic_calculator\Basic_calculator\obj\Debug\net8.0\Basic_calculator.pdb
+R:\VAP\3.ročník\Basic_calculator\Basic_calculator\obj\Debug\net8.0\Basic_calculator.genruntimeconfig.cache
+R:\VAP\3.ročník\Basic_calculator\Basic_calculator\obj\Debug\net8.0\ref\Basic_calculator.dll

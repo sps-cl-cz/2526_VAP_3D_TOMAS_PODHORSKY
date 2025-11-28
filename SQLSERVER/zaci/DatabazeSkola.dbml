@@ -1,0 +1,73 @@
+Table Zaci [headercolor: #175e7a] {
+	id integer [ pk, not null, unique ]
+	trida integer
+}
+
+Table Znamky [headercolor: #175e7a] {
+	id integer [ pk, increment, not null, unique ]
+	id_zak integer [ not null ]
+	datum date [ not null, default: `getdate()` ]
+	absence bit [ not null, default: 0 ]
+	znamka integer [ not null, default: 0 ]
+	vaha integer [ not null, default: 5 ]
+	id_predmet integer [ not null ]
+}
+
+Table Predmety [headercolor: #175e7a] {
+	id integer [ pk, increment, not null, unique ]
+	nazev varchar(10) [ not null ]
+	vyucujici integer [ not null ]
+}
+
+Table Ucitele [headercolor: #175e7a] {
+	id integer [ pk, not null, unique ]
+}
+
+Table Osoby [headercolor: #175e7a] {
+	id integer [ pk, increment, not null, unique ]
+	jmeno nvarchar(100) [ not null ]
+	prijmeni nvarchar(100) [ not null ]
+}
+
+Table Tel_cisla [headercolor: #175e7a] {
+	cislo integer [ pk, not null, unique ]
+	id_osoby integer [ not null ]
+}
+
+Table Tridy [headercolor: #175e7a] {
+	id integer [ pk, not null, unique ]
+	nazev varchar(10) [ not null ]
+	tridni_ucitel integer
+}
+
+Ref fk_Znamky_id_zak_Zaci {
+	Znamky.id_zak > Zaci.id [ delete: no action, update: no action ]
+}
+
+Ref fk_Znamky_id_predmet_Predmety {
+	Znamky.id_predmet > Predmety.id [ delete: no action, update: no action ]
+}
+
+Ref fk_Predmety_Ucitel_id_Ucitele {
+	Predmety.vyucujici > Ucitele.id [ delete: no action, update: no action ]
+}
+
+Ref fk_Zaci_id_Osoby {
+	Zaci.id - Osoby.id [ delete: no action, update: no action ]
+}
+
+Ref fk_Ucitele_id_Osoby {
+	Ucitele.id - Osoby.id [ delete: no action, update: no action ]
+}
+
+Ref fk_Tel_cisla_id_osoby_Osoby {
+	Tel_cisla.id_osoby > Osoby.id [ delete: no action, update: no action ]
+}
+
+Ref fk_Tridy_tridni_ucitel_Ucitele {
+	Tridy.tridni_ucitel > Ucitele.id [ delete: no action, update: no action ]
+}
+
+Ref fk_Zaci_Trida_Tridy {
+	Zaci.trida > Tridy.id [ delete: no action, update: no action ]
+}

@@ -1,0 +1,49 @@
+Table Recenze [headercolor: #175e7a] {
+	id integer [ pk, increment, not null ]
+	id_knihy integer [ not null ]
+	id_recenzenta integer [ not null ]
+	datum date [ not null ]
+	hodnoceni integer [ not null ]
+}
+
+Table Autori [headercolor: #175e7a] {
+	id integer [ pk, increment, not null ]
+	jmeno nvarchar(255) [ not null ]
+	prijmeni nvarchar(255) [ not null ]
+	datum_narozeni date [ not null ]
+}
+
+Table Knihy [headercolor: #175e7a] {
+	id integer [ pk, increment, not null ]
+	nazev nvarchar(200) [ not null ]
+	rokVydani integer [ not null ]
+	zanr nvarchar(50) [ not null ]
+}
+
+Table KnihaAutori [headercolor: #175e7a] {
+	id_knihy integer [ pk, not null ]
+	id_autora integer [ pk, not null ]
+}
+
+Table Recenzenti [headercolor: #175e7a] {
+	id integer [ pk, increment, not null ]
+	uzivatelske_jmeno nvarchar(100) [ not null, unique ]
+	email nvarchar(255) [ not null, unique ]
+	datum_registrace date [ not null ]
+}
+
+Ref fk_KnihaAutori_id_knihy_Knihy {
+	KnihaAutori.id_knihy > Knihy.id [ delete: cascade, update: no action ]
+}
+
+Ref fk_KnihaAutori_id_autora_Autori {
+	KnihaAutori.id_autora > Autori.id [ delete: cascade, update: no action ]
+}
+
+Ref fk_Recenze_id_knihy_Knihy {
+	Recenze.id_knihy > Knihy.id [ delete: cascade, update: no action ]
+}
+
+Ref fk_Recenze_id_recenzenta_Recenzenti {
+	Recenze.id_recenzenta > Recenzenti.id [ delete: cascade, update: no action ]
+}

@@ -1,0 +1,29 @@
+R:\VAP\3. ročník\Konzolové\Funkce\Funkce\obj\Debug\net8.0\Funkce.GeneratedMSBuildEditorConfig.editorconfig
+R:\VAP\3. ročník\Konzolové\Funkce\Funkce\obj\Debug\net8.0\Funkce.AssemblyInfoInputs.cache
+R:\VAP\3. ročník\Konzolové\Funkce\Funkce\obj\Debug\net8.0\Funkce.AssemblyInfo.cs
+R:\VAP\3. ročník\Konzolové\Funkce\Funkce\obj\Debug\net8.0\Funkce.csproj.CoreCompileInputs.cache
+R:\VAP\3. ročník\Konzolové\Funkce\Funkce\obj\Debug\net8.0\Funkce.sourcelink.json
+R:\VAP\3. ročník\Konzolové\Funkce\Funkce\bin\Debug\net8.0\Funkce.exe
+R:\VAP\3. ročník\Konzolové\Funkce\Funkce\bin\Debug\net8.0\Funkce.deps.json
+R:\VAP\3. ročník\Konzolové\Funkce\Funkce\bin\Debug\net8.0\Funkce.runtimeconfig.json
+R:\VAP\3. ročník\Konzolové\Funkce\Funkce\bin\Debug\net8.0\Funkce.dll
+R:\VAP\3. ročník\Konzolové\Funkce\Funkce\bin\Debug\net8.0\Funkce.pdb
+R:\VAP\3. ročník\Konzolové\Funkce\Funkce\obj\Debug\net8.0\Funkce.dll
+R:\VAP\3. ročník\Konzolové\Funkce\Funkce\obj\Debug\net8.0\refint\Funkce.dll
+R:\VAP\3. ročník\Konzolové\Funkce\Funkce\obj\Debug\net8.0\Funkce.pdb
+R:\VAP\3. ročník\Konzolové\Funkce\Funkce\obj\Debug\net8.0\Funkce.genruntimeconfig.cache
+R:\VAP\3. ročník\Konzolové\Funkce\Funkce\obj\Debug\net8.0\ref\Funkce.dll
+R:\VAP\3.ročník\C\Funkce\Funkce\bin\Debug\net8.0\Funkce.exe
+R:\VAP\3.ročník\C\Funkce\Funkce\bin\Debug\net8.0\Funkce.deps.json
+R:\VAP\3.ročník\C\Funkce\Funkce\bin\Debug\net8.0\Funkce.runtimeconfig.json
+R:\VAP\3.ročník\C\Funkce\Funkce\bin\Debug\net8.0\Funkce.dll
+R:\VAP\3.ročník\C\Funkce\Funkce\bin\Debug\net8.0\Funkce.pdb
+R:\VAP\3.ročník\C\Funkce\Funkce\obj\Debug\net8.0\Funkce.GeneratedMSBuildEditorConfig.editorconfig
+R:\VAP\3.ročník\C\Funkce\Funkce\obj\Debug\net8.0\Funkce.AssemblyInfoInputs.cache
+R:\VAP\3.ročník\C\Funkce\Funkce\obj\Debug\net8.0\Funkce.AssemblyInfo.cs
+R:\VAP\3.ročník\C\Funkce\Funkce\obj\Debug\net8.0\Funkce.csproj.CoreCompileInputs.cache
+R:\VAP\3.ročník\C\Funkce\Funkce\obj\Debug\net8.0\Funkce.dll
+R:\VAP\3.ročník\C\Funkce\Funkce\obj\Debug\net8.0\refint\Funkce.dll
+R:\VAP\3.ročník\C\Funkce\Funkce\obj\Debug\net8.0\Funkce.pdb
+R:\VAP\3.ročník\C\Funkce\Funkce\obj\Debug\net8.0\Funkce.genruntimeconfig.cache
+R:\VAP\3.ročník\C\Funkce\Funkce\obj\Debug\net8.0\ref\Funkce.dll

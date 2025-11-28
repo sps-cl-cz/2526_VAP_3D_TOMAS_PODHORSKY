@@ -1,0 +1,28 @@
+R:\VAP\3. ročník\Konzolové\Uvod_datove_typy\Uvod_datove_typy\bin\Debug\net8.0\Uvod_datove_typy.exe
+R:\VAP\3. ročník\Konzolové\Uvod_datove_typy\Uvod_datove_typy\bin\Debug\net8.0\Uvod_datove_typy.deps.json
+R:\VAP\3. ročník\Konzolové\Uvod_datove_typy\Uvod_datove_typy\bin\Debug\net8.0\Uvod_datove_typy.runtimeconfig.json
+R:\VAP\3. ročník\Konzolové\Uvod_datove_typy\Uvod_datove_typy\bin\Debug\net8.0\Uvod_datove_typy.dll
+R:\VAP\3. ročník\Konzolové\Uvod_datove_typy\Uvod_datove_typy\bin\Debug\net8.0\Uvod_datove_typy.pdb
+R:\VAP\3. ročník\Konzolové\Uvod_datove_typy\Uvod_datove_typy\obj\Debug\net8.0\Uvod_datove_typy.GeneratedMSBuildEditorConfig.editorconfig
+R:\VAP\3. ročník\Konzolové\Uvod_datove_typy\Uvod_datove_typy\obj\Debug\net8.0\Uvod_datove_typy.AssemblyInfoInputs.cache
+R:\VAP\3. ročník\Konzolové\Uvod_datove_typy\Uvod_datove_typy\obj\Debug\net8.0\Uvod_datove_typy.AssemblyInfo.cs
+R:\VAP\3. ročník\Konzolové\Uvod_datove_typy\Uvod_datove_typy\obj\Debug\net8.0\Uvod_datove_typy.csproj.CoreCompileInputs.cache
+R:\VAP\3. ročník\Konzolové\Uvod_datove_typy\Uvod_datove_typy\obj\Debug\net8.0\Uvod_datove_typy.dll
+R:\VAP\3. ročník\Konzolové\Uvod_datove_typy\Uvod_datove_typy\obj\Debug\net8.0\refint\Uvod_datove_typy.dll
+R:\VAP\3. ročník\Konzolové\Uvod_datove_typy\Uvod_datove_typy\obj\Debug\net8.0\Uvod_datove_typy.pdb
+R:\VAP\3. ročník\Konzolové\Uvod_datove_typy\Uvod_datove_typy\obj\Debug\net8.0\Uvod_datove_typy.genruntimeconfig.cache
+R:\VAP\3. ročník\Konzolové\Uvod_datove_typy\Uvod_datove_typy\obj\Debug\net8.0\ref\Uvod_datove_typy.dll
+R:\VAP\3.ročník\C\Uvod_datove_typy\Uvod_datove_typy\bin\Debug\net8.0\Uvod_datove_typy.exe
+R:\VAP\3.ročník\C\Uvod_datove_typy\Uvod_datove_typy\bin\Debug\net8.0\Uvod_datove_typy.deps.json
+R:\VAP\3.ročník\C\Uvod_datove_typy\Uvod_datove_typy\bin\Debug\net8.0\Uvod_datove_typy.runtimeconfig.json
+R:\VAP\3.ročník\C\Uvod_datove_typy\Uvod_datove_typy\bin\Debug\net8.0\Uvod_datove_typy.dll
+R:\VAP\3.ročník\C\Uvod_datove_typy\Uvod_datove_typy\bin\Debug\net8.0\Uvod_datove_typy.pdb
+R:\VAP\3.ročník\C\Uvod_datove_typy\Uvod_datove_typy\obj\Debug\net8.0\Uvod_datove_typy.GeneratedMSBuildEditorConfig.editorconfig
+R:\VAP\3.ročník\C\Uvod_datove_typy\Uvod_datove_typy\obj\Debug\net8.0\Uvod_datove_typy.AssemblyInfoInputs.cache
+R:\VAP\3.ročník\C\Uvod_datove_typy\Uvod_datove_typy\obj\Debug\net8.0\Uvod_datove_typy.AssemblyInfo.cs
+R:\VAP\3.ročník\C\Uvod_datove_typy\Uvod_datove_typy\obj\Debug\net8.0\Uvod_datove_typy.csproj.CoreCompileInputs.cache
+R:\VAP\3.ročník\C\Uvod_datove_typy\Uvod_datove_typy\obj\Debug\net8.0\Uvod_datove_typy.dll
+R:\VAP\3.ročník\C\Uvod_datove_typy\Uvod_datove_typy\obj\Debug\net8.0\refint\Uvod_datove_typy.dll
+R:\VAP\3.ročník\C\Uvod_datove_typy\Uvod_datove_typy\obj\Debug\net8.0\Uvod_datove_typy.pdb
+R:\VAP\3.ročník\C\Uvod_datove_typy\Uvod_datove_typy\obj\Debug\net8.0\Uvod_datove_typy.genruntimeconfig.cache
+R:\VAP\3.ročník\C\Uvod_datove_typy\Uvod_datove_typy\obj\Debug\net8.0\ref\Uvod_datove_typy.dll
