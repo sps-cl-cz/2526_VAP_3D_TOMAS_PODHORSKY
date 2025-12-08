@@ -1,0 +1,15 @@
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\samostatnaPrace1\samostatnaPrace1\bin\Debug\net8.0\samostatnaPrace1.exe
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\samostatnaPrace1\samostatnaPrace1\bin\Debug\net8.0\samostatnaPrace1.deps.json
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\samostatnaPrace1\samostatnaPrace1\bin\Debug\net8.0\samostatnaPrace1.runtimeconfig.json
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\samostatnaPrace1\samostatnaPrace1\bin\Debug\net8.0\samostatnaPrace1.dll
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\samostatnaPrace1\samostatnaPrace1\bin\Debug\net8.0\samostatnaPrace1.pdb
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\samostatnaPrace1\samostatnaPrace1\obj\Debug\net8.0\samostatnaPrace1.GeneratedMSBuildEditorConfig.editorconfig
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\samostatnaPrace1\samostatnaPrace1\obj\Debug\net8.0\samostatnaPrace1.AssemblyInfoInputs.cache
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\samostatnaPrace1\samostatnaPrace1\obj\Debug\net8.0\samostatnaPrace1.AssemblyInfo.cs
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\samostatnaPrace1\samostatnaPrace1\obj\Debug\net8.0\samostatnaPrace1.csproj.CoreCompileInputs.cache
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\samostatnaPrace1\samostatnaPrace1\obj\Debug\net8.0\samostatnaPrace1.sourcelink.json
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\samostatnaPrace1\samostatnaPrace1\obj\Debug\net8.0\samostatnaPrace1.dll
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\samostatnaPrace1\samostatnaPrace1\obj\Debug\net8.0\refint\samostatnaPrace1.dll
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\samostatnaPrace1\samostatnaPrace1\obj\Debug\net8.0\samostatnaPrace1.pdb
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\samostatnaPrace1\samostatnaPrace1\obj\Debug\net8.0\samostatnaPrace1.genruntimeconfig.cache
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\samostatnaPrace1\samostatnaPrace1\obj\Debug\net8.0\ref\samostatnaPrace1.dll
