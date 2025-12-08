@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Funkce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05c812877a4a605145b6fc30b5737a819c0e7d0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Funkce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Funkce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

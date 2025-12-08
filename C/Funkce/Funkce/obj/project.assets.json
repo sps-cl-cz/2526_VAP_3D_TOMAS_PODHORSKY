@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "R:\\VAP\\3.ročník\\C\\Funkce\\Funkce\\Funkce.csproj",
+      "projectUniqueName": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\Funkce\\Funkce\\Funkce.csproj",
       "projectName": "Funkce",
-      "projectPath": "R:\\VAP\\3.ročník\\C\\Funkce\\Funkce\\Funkce.csproj",
+      "projectPath": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\Funkce\\Funkce\\Funkce.csproj",
       "packagesPath": "C:\\Users\\martin.radovanovic\\.nuget\\packages\\",
-      "outputPath": "R:\\VAP\\3.ročník\\C\\Funkce\\Funkce\\obj\\",
+      "outputPath": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\Funkce\\Funkce\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

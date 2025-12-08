@@ -54,4 +54,43 @@ int CifernySoučet(int cislo)
     return soucet;
 }
 
-Console.WriteLine(CifernySoučet(123));
+bool JePalindrom(string slovo)
+{
+    slovo = slovo.ToLower();
+
+    string obracene = new string(slovo.Reverse().ToArray());
+    return slovo == obracene;
+}
+
+List<double> VratKladnaCisla(double[] cisla)
+{
+    List<double> vysledek = new List<double>();
+    foreach (double c in cisla)
+    {
+        if (c > 0) vysledek.Add(c);
+    }
+    return vysledek;
+}
+
+T Vetsi<T>(T jedna, T dva) where T : IComparable
+{
+    if (jedna.CompareTo(dva) > 0)
+        return dva;
+    return jedna;
+}
+
+string vetsiText = Vetsi("123", "456");
+int vetsicislo = Vetsi(123, 456);
+
+Action<string> a = (text) =>
+{
+    Console.WriteLine("Ahoj");
+};
+
+a("ahoj");
+a?.Invoke("ahoj");
+
+Func<string, int> f = (text) =>
+{
+    return text.Length;
+};

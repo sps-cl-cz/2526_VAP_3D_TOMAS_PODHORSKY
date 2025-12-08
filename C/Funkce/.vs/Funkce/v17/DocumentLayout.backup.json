@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "R:\\VAP\\3.ro\u010Dn\u00EDk\\C\\Funkce\\",
+  "WorkspaceRootPath": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\Funkce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF83C4F4-C01F-4BAC-A5A6-E9D9BC41FEDF}|Funkce\\Funkce.csproj|r:\\vap\\3.ro\u010Dn\u00EDk\\c\\funkce\\funkce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF83C4F4-C01F-4BAC-A5A6-E9D9BC41FEDF}|Funkce\\Funkce.csproj|r:\\vap\\2526_vap_3d_martin_radovanovic\\c\\funkce\\funkce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF83C4F4-C01F-4BAC-A5A6-E9D9BC41FEDF}|Funkce\\Funkce.csproj|solutionrelative:funkce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "R:\\VAP\\3.ro\u010Dn\u00EDk\\C\\Funkce\\Funkce\\Program.cs",
+              "DocumentMoniker": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\Funkce\\Funkce\\Program.cs",
               "RelativeDocumentMoniker": "Funkce\\Program.cs",
-              "ToolTip": "R:\\VAP\\3.ro\u010Dn\u00EDk\\C\\Funkce\\Funkce\\Program.cs*",
+              "ToolTip": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\Funkce\\Funkce\\Program.cs*",
               "RelativeToolTip": "Funkce\\Program.cs*",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T10:05:45.149Z",
               "EditorCaption": ""
