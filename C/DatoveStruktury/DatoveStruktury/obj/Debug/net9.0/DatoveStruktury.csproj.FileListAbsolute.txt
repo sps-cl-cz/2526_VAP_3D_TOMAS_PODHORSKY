@@ -1,0 +1,14 @@
+/run/media/lvicek07/E9F9-01DE/DatoveStruktury/DatoveStruktury/bin/Debug/net9.0/DatoveStruktury
+/run/media/lvicek07/E9F9-01DE/DatoveStruktury/DatoveStruktury/bin/Debug/net9.0/DatoveStruktury.deps.json
+/run/media/lvicek07/E9F9-01DE/DatoveStruktury/DatoveStruktury/bin/Debug/net9.0/DatoveStruktury.runtimeconfig.json
+/run/media/lvicek07/E9F9-01DE/DatoveStruktury/DatoveStruktury/bin/Debug/net9.0/DatoveStruktury.dll
+/run/media/lvicek07/E9F9-01DE/DatoveStruktury/DatoveStruktury/bin/Debug/net9.0/DatoveStruktury.pdb
+/run/media/lvicek07/E9F9-01DE/DatoveStruktury/DatoveStruktury/obj/Debug/net9.0/DatoveStruktury.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/lvicek07/E9F9-01DE/DatoveStruktury/DatoveStruktury/obj/Debug/net9.0/DatoveStruktury.AssemblyInfoInputs.cache
+/run/media/lvicek07/E9F9-01DE/DatoveStruktury/DatoveStruktury/obj/Debug/net9.0/DatoveStruktury.AssemblyInfo.cs
+/run/media/lvicek07/E9F9-01DE/DatoveStruktury/DatoveStruktury/obj/Debug/net9.0/DatoveStruktury.csproj.CoreCompileInputs.cache
+/run/media/lvicek07/E9F9-01DE/DatoveStruktury/DatoveStruktury/obj/Debug/net9.0/DatoveStruktury.dll
+/run/media/lvicek07/E9F9-01DE/DatoveStruktury/DatoveStruktury/obj/Debug/net9.0/refint/DatoveStruktury.dll
+/run/media/lvicek07/E9F9-01DE/DatoveStruktury/DatoveStruktury/obj/Debug/net9.0/DatoveStruktury.pdb
+/run/media/lvicek07/E9F9-01DE/DatoveStruktury/DatoveStruktury/obj/Debug/net9.0/DatoveStruktury.genruntimeconfig.cache
+/run/media/lvicek07/E9F9-01DE/DatoveStruktury/DatoveStruktury/obj/Debug/net9.0/ref/DatoveStruktury.dll
