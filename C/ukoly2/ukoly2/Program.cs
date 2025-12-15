@@ -42,3 +42,38 @@ Stack<int> PrevratZasobnik(Stack<int> original)
     return obraceny;
 }
 
+HashSet<string> PrunikMnozin(HashSet<string> a, HashSet<string> b)
+{
+    HashSet<string> vysledek = new HashSet<string>();
+
+    foreach (string x in a)
+    {
+        if (b.Contains(x))
+        {
+            vysledek.Add(x);
+        }
+    }
+
+    return vysledek;
+}
+
+Dictionary<string, int> SpocitejVyskyt(Stack<string> zasobnik)
+{
+    Dictionary<string, int> slovnik = new Dictionary<string, int>();
+
+    while (zasobnik.Count > 0)
+    {
+        string slovo = zasobnik.Pop();
+
+        if (slovnik.ContainsKey(slovo))
+        {
+            slovnik[slovo]++;
+        }
+        else
+        {
+            slovnik[slovo] = 1;
+        }
+    }
+
+    return slovnik;
+}
