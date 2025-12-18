@@ -45,7 +45,7 @@ Stack<int> PrevratZasobnik(Stack<int> original)
 HashSet<string> PrunikMnozin(HashSet<string> a, HashSet<string> b)
 {
     HashSet<string> vysledek = new HashSet<string>();
-
+    /*a.Intersect(b);*/
     foreach (string x in a)
     {
         if (b.Contains(x))
@@ -77,3 +77,14 @@ Dictionary<string, int> SpocitejVyskyt(Stack<string> zasobnik)
 
     return slovnik;
 }
+
+List<int> cisla = new List<int>()
+{
+    0, 1, 2, 3, 4, 5, 6
+};
+List<int>cisla_delitelna_tremi = cisla.Where(x => x % 3 == 0).ToList();
+int delitelnePeti = cisla.First(x => x % 5 == 0);
+
+List<int> mocniny = cisla.Select(x => x * x).ToList();
+int soucet = cisla.Aggregate((acc, cur) => acc + cur);
+int soucet2 = cisla.Sum(x => x);
