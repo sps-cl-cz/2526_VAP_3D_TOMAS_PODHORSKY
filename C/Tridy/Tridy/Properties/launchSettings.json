@@ -2,7 +2,7 @@
   "profiles": {
     "Tridy": {
       "commandName": "Project",
-      "commandLineArgs": "Uklidit nesplneno"
+      "commandLineArgs": "pridat Uklidit nesplneno"
     }
   }
 }
