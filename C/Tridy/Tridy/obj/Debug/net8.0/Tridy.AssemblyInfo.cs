@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tridy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d902310e188bc9205574fb1fdefa9fb3c852a2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84d497e4d84e9fc3ed262ca53ce2f928b2a347a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tridy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tridy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

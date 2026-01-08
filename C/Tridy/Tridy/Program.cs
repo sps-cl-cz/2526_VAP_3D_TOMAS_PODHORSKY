@@ -1,12 +1,15 @@
-﻿class Program
+﻿namespace Tridy;
+class Program
 {
-    public static int cislo = 0;
-    int cislo2 = 0;
     static void Main(string[] args)
     {
-            foreach (string arg in args)
-        {
-               Console.WriteLine(arg);
+        if (args.Length < 2){
+            Console.WriteLine("Nedostatecny pocet arg");
+            return;
         }
+        string title = args[0];
+        bool completed = args[1].ToLower().Trim() == "splneno";
+        MyTask task = new MyTask(title, completed);
+        System.IO.File.WriteAllText("tasks.txt", task.ToString());
     }
 }
