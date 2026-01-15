@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "prumerZnamky": {
+      "commandName": "Project",
+      "commandLineArgs": "vstup.txt vystup.txt"
+    }
+  }
+}

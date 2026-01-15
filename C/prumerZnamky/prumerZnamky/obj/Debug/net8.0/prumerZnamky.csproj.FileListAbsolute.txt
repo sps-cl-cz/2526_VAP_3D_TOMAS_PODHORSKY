@@ -1,0 +1,15 @@
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\prumerZnamky\prumerZnamky\bin\Debug\net8.0\prumerZnamky.exe
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\prumerZnamky\prumerZnamky\bin\Debug\net8.0\prumerZnamky.deps.json
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\prumerZnamky\prumerZnamky\bin\Debug\net8.0\prumerZnamky.runtimeconfig.json
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\prumerZnamky\prumerZnamky\bin\Debug\net8.0\prumerZnamky.dll
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\prumerZnamky\prumerZnamky\bin\Debug\net8.0\prumerZnamky.pdb
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\prumerZnamky\prumerZnamky\obj\Debug\net8.0\prumerZnamky.GeneratedMSBuildEditorConfig.editorconfig
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\prumerZnamky\prumerZnamky\obj\Debug\net8.0\prumerZnamky.AssemblyInfoInputs.cache
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\prumerZnamky\prumerZnamky\obj\Debug\net8.0\prumerZnamky.AssemblyInfo.cs
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\prumerZnamky\prumerZnamky\obj\Debug\net8.0\prumerZnamky.csproj.CoreCompileInputs.cache
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\prumerZnamky\prumerZnamky\obj\Debug\net8.0\prumerZnamky.sourcelink.json
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\prumerZnamky\prumerZnamky\obj\Debug\net8.0\prumerZnamky.dll
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\prumerZnamky\prumerZnamky\obj\Debug\net8.0\refint\prumerZnamky.dll
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\prumerZnamky\prumerZnamky\obj\Debug\net8.0\prumerZnamky.pdb
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\prumerZnamky\prumerZnamky\obj\Debug\net8.0\prumerZnamky.genruntimeconfig.cache
+R:\VAP\2526_VAP_3D_MARTIN_RADOVANOVIC\C\prumerZnamky\prumerZnamky\obj\Debug\net8.0\ref\prumerZnamky.dll

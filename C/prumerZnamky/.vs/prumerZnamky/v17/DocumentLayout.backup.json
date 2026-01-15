@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\prumerZnamky\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6296F1C-50E9-4A60-8AC6-1BB8C3F5BA64}|prumerZnamky\\prumerZnamky.csproj|r:\\vap\\2526_vap_3d_martin_radovanovic\\c\\prumerznamky\\prumerznamky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6296F1C-50E9-4A60-8AC6-1BB8C3F5BA64}|prumerZnamky\\prumerZnamky.csproj|solutionrelative:prumerznamky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6296F1C-50E9-4A60-8AC6-1BB8C3F5BA64}|prumerZnamky\\prumerZnamky.csproj|r:\\vap\\2526_vap_3d_martin_radovanovic\\c\\prumerznamky\\prumerznamky\\nametask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6296F1C-50E9-4A60-8AC6-1BB8C3F5BA64}|prumerZnamky\\prumerZnamky.csproj|solutionrelative:prumerznamky\\nametask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NameTask.cs",
+              "DocumentMoniker": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\prumerZnamky\\prumerZnamky\\NameTask.cs",
+              "RelativeDocumentMoniker": "prumerZnamky\\NameTask.cs",
+              "ToolTip": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\prumerZnamky\\prumerZnamky\\NameTask.cs",
+              "RelativeToolTip": "prumerZnamky\\NameTask.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAB4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:52:46.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\prumerZnamky\\prumerZnamky\\Program.cs",
+              "RelativeDocumentMoniker": "prumerZnamky\\Program.cs",
+              "ToolTip": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\prumerZnamky\\prumerZnamky\\Program.cs",
+              "RelativeToolTip": "prumerZnamky\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwBwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:46:41.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
