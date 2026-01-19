@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("prumerZnamky")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DatabaseApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02c30796621e4f42d575d39b3e81070b69e46fca")]
-[assembly: System.Reflection.AssemblyProductAttribute("prumerZnamky")]
-[assembly: System.Reflection.AssemblyTitleAttribute("prumerZnamky")]
+[assembly: System.Reflection.AssemblyProductAttribute("DatabaseApp")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DatabaseApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild

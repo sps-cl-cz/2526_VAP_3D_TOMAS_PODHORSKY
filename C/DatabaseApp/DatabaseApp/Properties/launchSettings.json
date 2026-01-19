@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DatabaseApp": {
+      "commandName": "Project",
+      "commandLineArgs": "Martin"
+    }
+  }
+}
