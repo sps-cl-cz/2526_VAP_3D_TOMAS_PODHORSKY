@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\DatabaseAppEf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B284DF7F-C9B4-4115-970F-75B264E98D4A}|DatabaseAppEf\\DatabaseAppEf.csproj|r:\\vap\\2526_vap_3d_martin_radovanovic\\c\\databaseappef\\databaseappef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B284DF7F-C9B4-4115-970F-75B264E98D4A}|DatabaseAppEf\\DatabaseAppEf.csproj|solutionrelative:databaseappef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B284DF7F-C9B4-4115-970F-75B264E98D4A}|DatabaseAppEf\\DatabaseAppEf.csproj|r:\\vap\\2526_vap_3d_martin_radovanovic\\c\\databaseappef\\databaseappef\\sqlitedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B284DF7F-C9B4-4115-970F-75B264E98D4A}|DatabaseAppEf\\DatabaseAppEf.csproj|solutionrelative:databaseappef\\sqlitedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B284DF7F-C9B4-4115-970F-75B264E98D4A}|DatabaseAppEf\\DatabaseAppEf.csproj|r:\\vap\\2526_vap_3d_martin_radovanovic\\c\\databaseappef\\databaseappef\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B284DF7F-C9B4-4115-970F-75B264E98D4A}|DatabaseAppEf\\DatabaseAppEf.csproj|solutionrelative:databaseappef\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B284DF7F-C9B4-4115-970F-75B264E98D4A}|DatabaseAppEf\\DatabaseAppEf.csproj|r:\\vap\\2526_vap_3d_martin_radovanovic\\c\\databaseappef\\databaseappef\\databaseappef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B284DF7F-C9B4-4115-970F-75B264E98D4A}|DatabaseAppEf\\DatabaseAppEf.csproj|solutionrelative:databaseappef\\databaseappef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B284DF7F-C9B4-4115-970F-75B264E98D4A}|DatabaseAppEf\\DatabaseAppEf.csproj|r:\\vap\\2526_vap_3d_martin_radovanovic\\c\\databaseappef\\databaseappef\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B284DF7F-C9B4-4115-970F-75B264E98D4A}|DatabaseAppEf\\DatabaseAppEf.csproj|solutionrelative:databaseappef\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLiteDbContext.cs",
+              "DocumentMoniker": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\DatabaseAppEf\\DatabaseAppEf\\SQLiteDbContext.cs",
+              "RelativeDocumentMoniker": "DatabaseAppEf\\SQLiteDbContext.cs",
+              "ToolTip": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\DatabaseAppEf\\DatabaseAppEf\\SQLiteDbContext.cs",
+              "RelativeToolTip": "DatabaseAppEf\\SQLiteDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T10:19:26.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\DatabaseAppEf\\DatabaseAppEf\\Player.cs",
+              "RelativeDocumentMoniker": "DatabaseAppEf\\Player.cs",
+              "ToolTip": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\DatabaseAppEf\\DatabaseAppEf\\Player.cs",
+              "RelativeToolTip": "DatabaseAppEf\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T10:17:59.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseAppEf",
+              "DocumentMoniker": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\DatabaseAppEf\\DatabaseAppEf\\DatabaseAppEf.csproj",
+              "RelativeDocumentMoniker": "DatabaseAppEf\\DatabaseAppEf.csproj",
+              "ToolTip": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\DatabaseAppEf\\DatabaseAppEf\\DatabaseAppEf.csproj",
+              "RelativeToolTip": "DatabaseAppEf\\DatabaseAppEf.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-26T10:17:36.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\DatabaseAppEf\\DatabaseAppEf\\Game.cs",
+              "RelativeDocumentMoniker": "DatabaseAppEf\\Game.cs",
+              "ToolTip": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\DatabaseAppEf\\DatabaseAppEf\\Game.cs",
+              "RelativeToolTip": "DatabaseAppEf\\Game.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T10:09:41.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\DatabaseAppEf\\DatabaseAppEf\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseAppEf\\Program.cs",
+              "ToolTip": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\DatabaseAppEf\\DatabaseAppEf\\Program.cs",
+              "RelativeToolTip": "DatabaseAppEf\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T10:08:57.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
