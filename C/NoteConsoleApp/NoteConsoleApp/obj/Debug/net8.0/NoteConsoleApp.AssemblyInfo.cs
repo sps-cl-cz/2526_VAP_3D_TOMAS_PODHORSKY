@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DatabaseAppEf")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("NoteConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5406bf6749ef0edfc68880d05104347874a5673")]
-[assembly: System.Reflection.AssemblyProductAttribute("DatabaseAppEf")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DatabaseAppEf")]
+[assembly: System.Reflection.AssemblyProductAttribute("NoteConsoleApp")]
+[assembly: System.Reflection.AssemblyTitleAttribute("NoteConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild

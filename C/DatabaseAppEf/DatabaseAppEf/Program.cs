@@ -1,34 +1,38 @@
-﻿using DatabaseAppEf;
+﻿using System;
+using System.Linq;
+using DatabaseAppEf;
 
 namespace ConsoleGame
 {
-    public static void Main(string[] args)
+    public class Program
     {
-        string name;
-        if (args.Length == 0)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("zadejte sve jemeno.");
-            name = Console.ReadLine();
-        }
-        else
-            name = args[0];
+            Console.WriteLine("Zadej své jméno:");
+            string name = args.Length > 0 ? args[0] : Console.ReadLine();
 
-        int score = new Game().Play();
-        using SQLiteDbContext context = new SQLiteDbContext();
-        context.Database.EnsureCreated();
-        Player player = context.Players.FirstOrDefault(p => p.Name == name);
-        if (player == null)
-        {
-            player = new Player()
+            int score = new Game().Play();
+
+            using SQLiteDbContext context = new SQLiteDbContext();
+            context.Database.EnsureCreated();
+
+            Player player = context.Players.FirstOrDefault(p => p.Name == name);
+
+            if (player == null)
             {
-                Name = name,
-                HighScore = score,
-            };
-            context.Players.Add(player);
-        } else
-        {
-            player.HighScore = Math.Max(score, player.HighScore)
+                player = new Player
+                {
+                    Name = name,
+                    HighScore = score
+                };
+                context.Players.Add(player);
+            }
+            else
+            {
+                player.HighScore = Math.Max(player.HighScore, score);
+            }
+
+            context.SaveChanges();
         }
-        context.SaveChanges();
     }
 }

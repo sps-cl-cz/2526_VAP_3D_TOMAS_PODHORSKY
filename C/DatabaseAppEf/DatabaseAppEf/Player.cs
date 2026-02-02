@@ -1,15 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DatabaseAppEf
+﻿namespace DatabaseAppEf
 {
-    internal class Player
+    public class Player
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public string HighScore { get; set; }
+        public int HighScore { get; set; }
     }
 }

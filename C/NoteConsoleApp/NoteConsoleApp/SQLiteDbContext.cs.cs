@@ -4,11 +4,11 @@ namespace DatabaseAppEf
 {
     public class SQLiteDbContext : DbContext
     {
-        public DbSet<Player> Players { get; set; }
+        public DbSet<Note> Notes { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite("Data Source=App.db");
+            optionsBuilder.UseSqlite("Data Source=Notes.db");
         }
     }
 }

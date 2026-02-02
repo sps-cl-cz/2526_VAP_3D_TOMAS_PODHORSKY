@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZgNtcngpQhw=",
+  "dgSpecHash": "yEdh4HLgBlo=",
   "success": true,
-  "projectFilePath": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\DatabaseAppEf\\DatabaseAppEf\\DatabaseAppEf.csproj",
+  "projectFilePath": "R:\\VAP\\2526_VAP_3D_MARTIN_RADOVANOVIC\\C\\NoteConsoleApp\\NoteConsoleApp\\NoteConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\martin.radovanovic\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\martin.radovanovic\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
