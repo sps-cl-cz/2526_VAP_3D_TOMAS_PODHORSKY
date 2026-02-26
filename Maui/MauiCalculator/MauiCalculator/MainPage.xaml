@@ -5,10 +5,9 @@
 
     <Grid RowDefinitions="*,*,7*">
         <StackLayout Orientation="Horizontal">
-            <RadioButton Content="White" GroupName="Theme" IsChecked="True" />
-            <RadioButton Content="Dark" GroupName="Theme" />
+            <RadioButton Content="Světlý" GroupName="Theme" IsChecked="{Binding LightTheme}"/>
+            <RadioButton Content="Tmavý" GroupName="Theme"/>
         </StackLayout>
-
         <!-- Display -->
         <Border Grid.Row="1" Stroke="Black" StrokeThickness="3" StrokeShape="RoundRectangle 10">
             <Label Text="{Binding Expression}" Style="{StaticResource ResultLabelStyle}"/>

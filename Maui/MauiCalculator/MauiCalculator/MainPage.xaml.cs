@@ -6,17 +6,24 @@ namespace MauiCalculator
 {
     public partial class MainPage : ContentPage
     {
-        private string expression = "0";
+        private bool _lightTheme = true;
+        public bool LightTheme 
+        {
+            get => _lightTheme;
+            set
+            {
+                _lightTheme = value;
+                App.Current.UserAppTheme = value ? AppTheme.Light : AppTheme.Dark;
+            } 
+        }
+        private string _expression = "0";
 
         public string Expression
         {
-            get
-            {
-                return expression;
-            }
+            get => _expression;
             set
             {
-                expression = value;
+                _expression = value;
                 OnPropertyChanged(nameof(Expression));
             }
         }
@@ -29,7 +36,6 @@ namespace MauiCalculator
 
         private void OnNumberClicked(object sender, EventArgs e)
         {
-            App.Current.UserAppTheme = AppTheme.Dark;
             if (sender is Button button)
             {
                 string value = button.Text;
@@ -66,7 +72,6 @@ namespace MauiCalculator
                 }
             }
         }
-
     }
 }
         
