@@ -4,5 +4,4 @@
              x:Class="MauiCalculator.Styles.Colors">
     <Color x:Key="LightButtonColor">LightBlue</Color>
     <Color x:Key="DarkButtonColor">LightGrey</Color>
-
 </ResourceDictionary>

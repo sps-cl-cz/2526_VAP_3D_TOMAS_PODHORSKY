@@ -29,6 +29,7 @@ namespace MauiCalculator
 
         private void OnNumberClicked(object sender, EventArgs e)
         {
+            App.Current.UserAppTheme = AppTheme.Dark;
             if (sender is Button button)
             {
                 string value = button.Text;

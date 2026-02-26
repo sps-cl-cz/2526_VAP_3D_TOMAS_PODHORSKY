@@ -3,95 +3,43 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MauiCalculator.MainPage">
 
-    <Grid RowDefinitions="*,7*">
+    <Grid RowDefinitions="*,*,7*">
+        <StackLayout Orientation="Horizontal">
+            <RadioButton Content="White" GroupName="Theme" IsChecked="True" />
+            <RadioButton Content="Dark" GroupName="Theme" />
+        </StackLayout>
 
         <!-- Display -->
-        <Border Stroke="Black"
-                StrokeThickness="3"
-                StrokeShape="RoundRectangle 10">
-            <Label Text="{Binding Expression}"
-                   Style="{StaticResource ResultLabelStyle}" />
+        <Border Grid.Row="1" Stroke="Black" StrokeThickness="3" StrokeShape="RoundRectangle 10">
+            <Label Text="{Binding Expression}" Style="{StaticResource ResultLabelStyle}"/>
+
         </Border>
 
         <!-- Buttons -->
-        <Grid Grid.Row="1"
+        <Grid Grid.Row="2"
               BackgroundColor="Grey"
               RowDefinitions="*,*,*,*,*"
               ColumnDefinitions="*,*,*,*"
               Padding="10">
 
-            <Button Text="(" Grid.Row="0" Grid.Column="0"
-                    Style="{StaticResource ButtonStyle}"
-                    Clicked="OnNumberClicked"/>
-
-            <Button Text=")" Grid.Row="0" Grid.Column="1"
-                    Style="{StaticResource ButtonStyle}"
-                    Clicked="OnNumberClicked"/>
-
-            <Button Text="C" Grid.Row="0" Grid.Column="2"
-                    Style="{StaticResource ClearButtonStyle}"
-                    Clicked="OnNumberClicked"/>
-
-            <Button Text="/" Grid.Row="0" Grid.Column="3"
-                    Style="{StaticResource ButtonStyle}"
-                    Clicked="OnNumberClicked"/>
-
-            <Button Text="7" Grid.Row="1" Grid.Column="0"
-                    Style="{StaticResource ButtonStyle}"
-                    Clicked="OnNumberClicked"/>
-
-            <Button Text="8" Grid.Row="1" Grid.Column="1"
-                    Style="{StaticResource ButtonStyle}"
-                    Clicked="OnNumberClicked"/>
-
-            <Button Text="9" Grid.Row="1" Grid.Column="2"
-                    Style="{StaticResource ButtonStyle}"
-                    Clicked="OnNumberClicked"/>
-
-            <Button Text="*" Grid.Row="1" Grid.Column="3"
-                    Style="{StaticResource ButtonStyle}"
-                    Clicked="OnNumberClicked"/>
-
-            <Button Text="4" Grid.Row="2" Grid.Column="0"
-                    Style="{StaticResource ButtonStyle}"
-                    Clicked="OnNumberClicked"/>
-
-            <Button Text="5" Grid.Row="2" Grid.Column="1"
-                    Style="{StaticResource ButtonStyle}"
-                    Clicked="OnNumberClicked"/>
-
-            <Button Text="6" Grid.Row="2" Grid.Column="2"
-                    Style="{StaticResource ButtonStyle}"
-                    Clicked="OnNumberClicked"/>
-
-            <Button Text="-" Grid.Row="2" Grid.Column="3"
-                    Style="{StaticResource ButtonStyle}"
-                    Clicked="OnNumberClicked"/>
-
-            <Button Text="1" Grid.Row="3" Grid.Column="0"
-                    Style="{StaticResource ButtonStyle}"
-                    Clicked="OnNumberClicked"/>
-
-            <Button Text="2" Grid.Row="3" Grid.Column="1"
-                    Style="{StaticResource ButtonStyle}"
-                    Clicked="OnNumberClicked"/>
-
-            <Button Text="3" Grid.Row="3" Grid.Column="2"
-                    Style="{StaticResource ButtonStyle}"
-                    Clicked="OnNumberClicked"/>
-
-            <Button Text="+" Grid.Row="3" Grid.Column="3"
-                    Style="{StaticResource ButtonStyle}"
-                    Clicked="OnNumberClicked"/>
-
-            <Button Text="0" Grid.Row="4" Grid.Column="0"
-                    Style="{StaticResource ButtonStyle}"
-                    Clicked="OnNumberClicked"/>
-
-            <Button Text="=" Grid.Row="4" Grid.Column="1"
-                    Grid.ColumnSpan="3"
-                    Style="{StaticResource EqualButtonStyle}"
-                    Clicked="OnNumberClicked"/>
+            <Button Text="(" Grid.Row="0" Grid.Column="0" Clicked="OnNumberClicked" Style="{StaticResource ButtonStyle}"/>
+            <Button Text=")" Grid.Row="0" Grid.Column="1" Clicked="OnNumberClicked" Style="{StaticResource ButtonStyle}"/>
+            <Button Text="C" Grid.Row="0" Grid.Column="2" Clicked="OnNumberClicked" Style="{StaticResource ClearButtonStyle}"/>
+            <Button Text="/" Grid.Row="0" Grid.Column="3" Clicked="OnNumberClicked" Style="{StaticResource ButtonStyle}"/>
+            <Button Text="7" Grid.Row="1" Grid.Column="0" Clicked="OnNumberClicked" Style="{StaticResource ButtonStyle}"/>
+            <Button Text="8" Grid.Row="1" Grid.Column="1" Clicked="OnNumberClicked" Style="{StaticResource ButtonStyle}"/>
+            <Button Text="9" Grid.Row="1" Grid.Column="2" Clicked="OnNumberClicked" Style="{StaticResource ButtonStyle}"/>
+            <Button Text="*" Grid.Row="1" Grid.Column="3" Clicked="OnNumberClicked" Style="{StaticResource ButtonStyle}"/>
+            <Button Text="4" Grid.Row="2" Grid.Column="0" Clicked="OnNumberClicked" Style="{StaticResource ButtonStyle}"/>
+            <Button Text="5" Grid.Row="2" Grid.Column="1" Clicked="OnNumberClicked" Style="{StaticResource ButtonStyle}"/>
+            <Button Text="6" Grid.Row="2" Grid.Column="2" Clicked="OnNumberClicked" Style="{StaticResource ButtonStyle}"/>
+            <Button Text="-" Grid.Row="2" Grid.Column="3" Clicked="OnNumberClicked" Style="{StaticResource ButtonStyle}"/>
+            <Button Text="1" Grid.Row="3" Grid.Column="0" Clicked="OnNumberClicked" Style="{StaticResource ButtonStyle}"/>
+            <Button Text="2" Grid.Row="3" Grid.Column="1" Clicked="OnNumberClicked" Style="{StaticResource ButtonStyle}"/>
+            <Button Text="3" Grid.Row="3" Grid.Column="2" Clicked="OnNumberClicked" Style="{StaticResource ButtonStyle}"/>
+            <Button Text="+" Grid.Row="3" Grid.Column="3" Clicked="OnNumberClicked" Style="{StaticResource ButtonStyle}"/>
+            <Button Text="0" Grid.Row="4" Grid.Column="0" Clicked="OnNumberClicked" Style="{StaticResource ButtonStyle}"/>
+            <Button Text="=" Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="3" Clicked="OnNumberClicked" Style="{StaticResource EqualButtonStyle}"/>
 
         </Grid>
 
