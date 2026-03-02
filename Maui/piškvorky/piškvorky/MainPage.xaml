@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiPiskvorky.MainPage">
+    <Grid RowDefinitions="Auto,Auto,*">
+
+        <StackLayout Orientation="Horizontal" Padding="10,5">
+            <RadioButton Content="Světlý" GroupName="Theme" IsChecked="{Binding LightTheme}"/>
+            <RadioButton Content="Tmavý" GroupName="Theme"/>
+        </StackLayout>
+
+        <Border Grid.Row="1" Stroke="Black" StrokeThickness="3"
+                StrokeShape="RoundRectangle 10" Margin="10,5"
+                BackgroundColor="{AppThemeBinding Light=#EEEEEE, Dark=#333333}">
+            <Label Text="{Binding StatusText}"
+                   FontSize="28" FontAttributes="Bold"
+                   HorizontalOptions="Center" VerticalOptions="Center"
+                   Margin="10,12"
+                   TextColor="{AppThemeBinding Light=Black, Dark=White}"/>
+        </Border>
+
+        <Grid Grid.Row="2"
+              RowDefinitions="*,*,*,Auto"
+              ColumnDefinitions="*,*,*"
+              Padding="10"
+              BackgroundColor="Gray">
+
+            <Grid Grid.Row="0" Grid.Column="0" Margin="5" BackgroundColor="{AppThemeBinding Light=#DDDDDD, Dark=#555555}">
+                <BoxView Color="Transparent"/>
+                <Label x:Name="Cell0" Text="" FontSize="60" FontAttributes="Bold"
+                       HorizontalOptions="Center" VerticalOptions="Center"/>
+                <Grid.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnCellTapped" CommandParameter="0"/>
+                </Grid.GestureRecognizers>
+            </Grid>
+
+            <Grid Grid.Row="0" Grid.Column="1" Margin="5" BackgroundColor="{AppThemeBinding Light=#DDDDDD, Dark=#555555}">
+                <BoxView Color="Transparent"/>
+                <Label x:Name="Cell1" Text="" FontSize="60" FontAttributes="Bold"
+                       HorizontalOptions="Center" VerticalOptions="Center"/>
+                <Grid.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnCellTapped" CommandParameter="1"/>
+                </Grid.GestureRecognizers>
+            </Grid>
+
+            <Grid Grid.Row="0" Grid.Column="2" Margin="5" BackgroundColor="{AppThemeBinding Light=#DDDDDD, Dark=#555555}">
+                <BoxView Color="Transparent"/>
+                <Label x:Name="Cell2" Text="" FontSize="60" FontAttributes="Bold"
+                       HorizontalOptions="Center" VerticalOptions="Center"/>
+                <Grid.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnCellTapped" CommandParameter="2"/>
+                </Grid.GestureRecognizers>
+            </Grid>
+
+            <Grid Grid.Row="1" Grid.Column="0" Margin="5" BackgroundColor="{AppThemeBinding Light=#DDDDDD, Dark=#555555}">
+                <BoxView Color="Transparent"/>
+                <Label x:Name="Cell3" Text="" FontSize="60" FontAttributes="Bold"
+                       HorizontalOptions="Center" VerticalOptions="Center"/>
+                <Grid.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnCellTapped" CommandParameter="3"/>
+                </Grid.GestureRecognizers>
+            </Grid>
+
+            <Grid Grid.Row="1" Grid.Column="1" Margin="5" BackgroundColor="{AppThemeBinding Light=#DDDDDD, Dark=#555555}">
+                <BoxView Color="Transparent"/>
+                <Label x:Name="Cell4" Text="" FontSize="60" FontAttributes="Bold"
+                       HorizontalOptions="Center" VerticalOptions="Center"/>
+                <Grid.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnCellTapped" CommandParameter="4"/>
+                </Grid.GestureRecognizers>
+            </Grid>
+
+            <Grid Grid.Row="1" Grid.Column="2" Margin="5" BackgroundColor="{AppThemeBinding Light=#DDDDDD, Dark=#555555}">
+                <BoxView Color="Transparent"/>
+                <Label x:Name="Cell5" Text="" FontSize="60" FontAttributes="Bold"
+                       HorizontalOptions="Center" VerticalOptions="Center"/>
+                <Grid.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnCellTapped" CommandParameter="5"/>
+                </Grid.GestureRecognizers>
+            </Grid>
+
+            <Grid Grid.Row="2" Grid.Column="0" Margin="5" BackgroundColor="{AppThemeBinding Light=#DDDDDD, Dark=#555555}">
+                <BoxView Color="Transparent"/>
+                <Label x:Name="Cell6" Text="" FontSize="60" FontAttributes="Bold"
+                       HorizontalOptions="Center" VerticalOptions="Center"/>
+                <Grid.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnCellTapped" CommandParameter="6"/>
+                </Grid.GestureRecognizers>
+            </Grid>
+
+            <Grid Grid.Row="2" Grid.Column="1" Margin="5" BackgroundColor="{AppThemeBinding Light=#DDDDDD, Dark=#555555}">
+                <BoxView Color="Transparent"/>
+                <Label x:Name="Cell7" Text="" FontSize="60" FontAttributes="Bold"
+                       HorizontalOptions="Center" VerticalOptions="Center"/>
+                <Grid.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnCellTapped" CommandParameter="7"/>
+                </Grid.GestureRecognizers>
+            </Grid>
+
+            <Grid Grid.Row="2" Grid.Column="2" Margin="5" BackgroundColor="{AppThemeBinding Light=#DDDDDD, Dark=#555555}">
+                <BoxView Color="Transparent"/>
+                <Label x:Name="Cell8" Text="" FontSize="60" FontAttributes="Bold"
+                       HorizontalOptions="Center" VerticalOptions="Center"/>
+                <Grid.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnCellTapped" CommandParameter="8"/>
+                </Grid.GestureRecognizers>
+            </Grid>
+
+            <Button Text="Nová hra"
+                    Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="3"
+                    Clicked="OnNewGameClicked"
+                    FontSize="25" TextColor="White" BackgroundColor="Green"
+                    CornerRadius="10" Margin="5,10,5,5"/>
+        </Grid>
+    </Grid>
+</ContentPage>
