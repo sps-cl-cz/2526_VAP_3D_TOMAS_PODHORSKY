@@ -1,4 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
+using projectManager.Pages;
+using projectManager.ViewModels;
 
 namespace projectManager
 {
@@ -14,6 +16,9 @@ namespace projectManager
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 });
+            builder.Services.AddSingleton<MainPage>();
+            builder.Services.AddSingleton<NewProjectPage>();
+            builder.Services.AddSingleton<MainViewModel>();
 
 #if DEBUG
     		builder.Logging.AddDebug();

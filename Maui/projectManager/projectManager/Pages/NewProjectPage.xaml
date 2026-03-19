@@ -3,11 +3,10 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="projectManager.Pages.NewProjectPage">
 
-    <VerticalStackLayout>
-        <Label 
-            Text="Detail projektu"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
+    <VerticalStackLayout Padding="20" Spacing="15">
+        <Entry x:Name="ProjectTitle" Placeholder="Title"/>
+        <Entry x:Name="ProjectDescription" Placeholder="Description"/>
+        <DatePicker x:Name="ProjectDate"/>
+        <Button Text="Create Project" Clicked="Button_Clicked"/>
     </VerticalStackLayout>
-
 </ContentPage>
