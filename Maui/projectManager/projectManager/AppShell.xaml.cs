@@ -1,6 +1,6 @@
-﻿using projectManager.Pages;
+﻿using ProjectManager.Pages;
 
-namespace projectManager
+namespace ProjectManager
 {
     public partial class AppShell : Shell
     {

@@ -1,7 +1,7 @@
-﻿using projectManager.Pages;
-using projectManager.ViewModels;
+﻿using ProjectManager.Pages;
+using ProjectManager.ViewModels;
 
-namespace projectManager
+namespace ProjectManager
 {
     public partial class MainPage : ContentPage
     {
@@ -15,9 +15,10 @@ namespace projectManager
             BindingContext = _viewModel;
         }
 
-        private async void OnCounterClicked(object sender, EventArgs e)
+        private void OnCounterClicked(object sender, EventArgs e)
         {
-            await Shell.Current.GoToAsync(nameof(ProjectDetailsPage));
+            Shell.Current.GoToAsync(nameof(ProjectDetailsPage));
         }
     }
+
 }

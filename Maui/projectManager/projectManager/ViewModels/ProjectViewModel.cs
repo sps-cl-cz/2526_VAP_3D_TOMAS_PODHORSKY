@@ -1,13 +1,15 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel;
-using projectManager.Models;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using ProjectManager.Models;
 
-namespace projectManager.ViewModels
+namespace ProjectManager.ViewModels
 {
-    public class ProjectViewModel
+    public class ProjectViewModel : INotifyPropertyChanged
     {
-        private Project _project;
-
         public string Title
         {
             get => _project.Title;
@@ -38,11 +40,18 @@ namespace projectManager.ViewModels
             }
         }
 
-        public event PropertyChangedEventHandler PropertyChanged;
+        private Project _project;
 
-        public ProjectViewModel(Project project)
-        {
+        public event PropertyChangedEventHandler? PropertyChanged;
+
+        public ProjectViewModel(Project project) 
+        { 
             _project = project;
+        }
+
+        public override string ToString()
+        {
+            return _project.ToString();
         }
     }
 }

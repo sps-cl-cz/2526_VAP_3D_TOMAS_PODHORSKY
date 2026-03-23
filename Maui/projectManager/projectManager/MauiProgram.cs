@@ -1,8 +1,8 @@
 ﻿using Microsoft.Extensions.Logging;
-using projectManager.Pages;
-using projectManager.ViewModels;
+using ProjectManager.Pages;
+using ProjectManager.ViewModels;
 
-namespace projectManager
+namespace ProjectManager
 {
     public static class MauiProgram
     {
@@ -19,7 +19,6 @@ namespace projectManager
             builder.Services.AddSingleton<MainPage>();
             builder.Services.AddSingleton<NewProjectPage>();
             builder.Services.AddSingleton<MainViewModel>();
-
 #if DEBUG
     		builder.Logging.AddDebug();
 #endif

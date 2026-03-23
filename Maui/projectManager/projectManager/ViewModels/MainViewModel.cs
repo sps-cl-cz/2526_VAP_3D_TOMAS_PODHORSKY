@@ -1,10 +1,14 @@
-﻿using System.Collections.ObjectModel;
-using projectManager.Models;
+﻿using System;
+using System.Collections.Generic;
+using System.Collections.ObjectModel;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace projectManager.ViewModels
+namespace ProjectManager.ViewModels
 {
     public class MainViewModel
     {
-        public ObservableCollection<Project> Projects { get; } = new ObservableCollection<Project>();
+        public ObservableCollection<ProjectViewModel> Projects { get; set; } = new();
     }
 }

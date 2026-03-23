@@ -1,4 +1,4 @@
-﻿namespace projectManager
+﻿namespace ProjectManager
 {
     public partial class App : Application
     {
