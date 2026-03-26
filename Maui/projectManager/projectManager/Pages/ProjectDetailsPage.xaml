@@ -7,5 +7,10 @@
             Text="Detail projektu"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
+        <StackLayout Orientation="Vertical">
+            <Entry Text="{Binding Title}" Placeholder="Název projektu"/>
+            <Entry Text="{Binding Description}" Placeholder="Popis projektu"/>
+            <DatePicker Date="{Binding Date}"/>
+        </StackLayout>
     </VerticalStackLayout>
 </ContentPage>

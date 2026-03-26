@@ -15,9 +15,15 @@ namespace ProjectManager
             BindingContext = _viewModel;
         }
 
-        private void OnCounterClicked(object sender, EventArgs e)
+        private void ListView_ItemTapped(object sender, ItemTappedEventArgs e)
         {
-            Shell.Current.GoToAsync(nameof(ProjectDetailsPage));
+            if (e.Item is ProjectViewModel viewModel)
+            {
+                Shell.Current.GoToAsync(nameof(ProjectDetailsPage), new Dictionary<string, object>
+                {
+                    { "project", viewModel }
+                });
+            }
         }
     }
 
