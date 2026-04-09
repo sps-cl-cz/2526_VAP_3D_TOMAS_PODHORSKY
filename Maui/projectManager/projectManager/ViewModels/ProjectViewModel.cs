@@ -40,6 +40,18 @@ namespace ProjectManager.ViewModels
             }
         }
 
+        public string Icon
+        {
+            get => _project.Icon;
+            set
+            {
+                _project.Icon = value;
+                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs("Icon"));
+            }
+        }
+
+        public Project Project => _project;
+
         private Project _project;
 
         public event PropertyChangedEventHandler? PropertyChanged;
@@ -47,11 +59,6 @@ namespace ProjectManager.ViewModels
         public ProjectViewModel(Project project) 
         { 
             _project = project;
-        }
-
-        public override string ToString()
-        {
-            return _project.ToString();
         }
     }
 }

@@ -15,15 +15,21 @@ namespace ProjectManager
             BindingContext = _viewModel;
         }
 
+        private void OnCounterClicked(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            Button button = (Button)sender;
+            ProjectViewModel projectViewModel = (ProjectViewModel)button.BindingContext;
+            _viewModel.Projects.Remove(projectViewModel);
+        }
+
         private void ListView_ItemTapped(object sender, ItemTappedEventArgs e)
         {
-            if (e.Item is ProjectViewModel viewModel)
-            {
-                Shell.Current.GoToAsync(nameof(ProjectDetailsPage), new Dictionary<string, object>
-                {
-                    { "project", viewModel }
-                });
-            }
+            Shell.Current.GoToAsync(nameof(ProjectDetailsPage), new Dictionary<string, object> { { "Project", e.Item } });
         }
     }
 

@@ -2,11 +2,24 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ProjectManager.Pages.NewProjectPage"
-             Title="NewProjectPage">
-    <VerticalStackLayout>
-        <Entry x:Name="ProjectTitle"/>
-        <Entry x:Name="ProjectDescription"/>
-        <DatePicker x:Name="ProjectDate"/>
-        <Button Clicked="Button_Clicked"/>
-    </VerticalStackLayout>
+             Title="Nový projekt">
+    <ScrollView>
+        <VerticalStackLayout Padding="16" Spacing="16">
+            <Frame Style="{StaticResource CardStyle}">
+                <VerticalStackLayout Spacing="14">
+                    <Label Text="Název projektu" Style="{StaticResource FormLabelStyle}" />
+                    <Entry x:Name="ProjectTitle" Placeholder="Zadejte název projektu" Style="{StaticResource FormEntryStyle}" />
+                    <Label Text="Popis" Style="{StaticResource FormLabelStyle}" />
+                    <Entry x:Name="ProjectDescription" Placeholder="Krátký popis projektu" Style="{StaticResource FormEntryStyle}" />
+                    <Label Text="Datum" Style="{StaticResource FormLabelStyle}" />
+                    <DatePicker x:Name="ProjectDate" Style="{StaticResource FormDateStyle}" />
+                    <HorizontalStackLayout>
+                        <Label Text=" Ikona projektu: "></Label>
+                    </HorizontalStackLayout>
+                </VerticalStackLayout>
+            </Frame>
+            <Button Text="Vytvořit projekt" Clicked="Button_Clicked" Style="{StaticResource PrimaryButtonStyle}" />
+        </VerticalStackLayout>
+    </ScrollView>
+
 </ContentPage>

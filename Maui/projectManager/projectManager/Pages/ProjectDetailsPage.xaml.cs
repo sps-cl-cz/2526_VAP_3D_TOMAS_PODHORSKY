@@ -1,22 +1,29 @@
 using ProjectManager.ViewModels;
+using ProjectManager.Database;
 
 namespace ProjectManager.Pages;
 
-[QueryProperty("Project", "project")]
+[QueryProperty(nameof(Project), "Project")]
 public partial class ProjectDetailsPage : ContentPage
 {
-	private ProjectViewModel _project;
-	public ProjectViewModel Project { 
-		get => _project; 
-		set 
-		{ 
-			_project = value;
-			BindingContext = _project;
-		}
-	}
+	public ProjectViewModel Project { get => _viewModel; set { _viewModel = value; BindingContext = value; } }
+	ProjectViewModel _viewModel;
+	DatabaseService _databaseService;
 
-    public ProjectDetailsPage()
+	public ProjectDetailsPage(DatabaseService databaseService)
 	{
+		_databaseService = databaseService;
 		InitializeComponent();
 	}
+
+    protected override void OnDisappearing()
+    {
+		_databaseService.SaveProjectAsync(Project.Project);
+        base.OnDisappearing();
+    }
+
+    private void Button_Clicked(object sender, EventArgs e)
+    {
+		Shell.Current.GoToAsync("..");
+    }
 }
