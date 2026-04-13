@@ -6,10 +6,11 @@
             <DataTemplate>
                 <ViewCell>
                     <Frame Style="{StaticResource CardStyle}">
-                        <Grid ColumnDefinitions="*,Auto" RowDefinitions="Auto,Auto">
-                            <Label Grid.Row="0" Text="{Binding Title}" Style="{StaticResource TitleLabelStyle}" />
-                            <Label Grid.Row="1" Text="{Binding Date, StringFormat='{0:dd.MM.yyyy}'}" Style="{StaticResource DateLabelStyle}" />
-                            <Button Grid.Column="1" Grid.RowSpan="2" Text="Odebrat" Style="{StaticResource DeleteButtonStyle}" Clicked="Button_Clicked"/>
+                        <Grid ColumnDefinitions="Auto,*,Auto" RowDefinitions="Auto,Auto">
+                            <Image Grid.Column="0" Source="{Binding Icon}" HeightRequest="40" Aspect="AspectFill" Margin="0,0,10,0"/>
+                            <Label Grid.Column="1" Grid.Row="0" Text="{Binding Title}" Style="{StaticResource TitleLabelStyle}" />
+                            <Label Grid.Column="1" Grid.Row="1" Text="{Binding Date, StringFormat='{0:dd.MM.yyyy}'}" Style="{StaticResource DateLabelStyle}" />
+                            <Button Grid.Column="2" Grid.RowSpan="2" Text="Odebrat" Style="{StaticResource DeleteButtonStyle}" Clicked="Button_Clicked"/>
                         </Grid>
                     </Frame>
                 </ViewCell>

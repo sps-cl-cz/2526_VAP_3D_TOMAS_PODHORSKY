@@ -10,7 +10,7 @@ public partial class NewProjectPage : ContentPage
 		get => _icon;
 		set
 		{
-			_icon = value;
+            _icon = value;
 			OnPropertyChanged();
 		}
 	}
@@ -21,6 +21,7 @@ public partial class NewProjectPage : ContentPage
 	{
 		_viewModel = mainViewModel;
 		InitializeComponent();
+		BindingContext = this;
 	}
 
     private void Button_Clicked(object sender, EventArgs e)
@@ -33,18 +34,10 @@ public partial class NewProjectPage : ContentPage
 			Title = title,
 			Description = description,
 			Date = date,
-			Icon = Icon,
+            Icon = Icon
 		};
 		_viewModel.Projects.Add(new ProjectViewModel(project));
 		Shell.Current.GoToAsync("//MainPage");
     }
 
-	private async void FileSelect_Clicked(object sender, EventArgs e)
-	{
-		var res = await FilePicker.PickAsync(PickOptions.Images);
-		if (res != null)
-		{
-			var path = res.FullPath;
-		}
-	}
 }

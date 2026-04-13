@@ -17,11 +17,12 @@ namespace ProjectManager
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 });
+
             builder.Services.AddSingleton<DatabaseService>();
             builder.Services.AddSingleton<MainPage>();
+            builder.Services.AddSingleton<ProjectDetailsPage>();
             builder.Services.AddSingleton<NewProjectPage>();
             builder.Services.AddSingleton<MainViewModel>();
-            builder.Services.AddSingleton<ProjectDetailsPage>();
 #if DEBUG
     		builder.Logging.AddDebug();
 #endif
