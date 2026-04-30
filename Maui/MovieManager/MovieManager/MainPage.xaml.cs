@@ -1,11 +1,12 @@
 using ProjectManager.Pages;
 using ProjectManager.ViewModels;
+using ProjectManager.Models; // Ujisti se, že máš správné usingy
 
 namespace ProjectManager
 {
     public partial class MainPage : ContentPage
     {
-        MainViewModel _viewModel;
+        private readonly MainViewModel _viewModel;
 
         public MainPage(MainViewModel mainViewModel)
         {
@@ -16,14 +17,18 @@ namespace ProjectManager
 
         private void Button_Clicked(object sender, EventArgs e)
         {
-            Button button = (Button)sender;
-            MovieViewModel movieViewModel = (MovieViewModel)button.BindingContext;
-            _viewModel.Movies.Remove(movieViewModel);
+            if (sender is Button button && button.BindingContext is MovieViewModel movieViewModel)
+            {
+                _viewModel.Movies.Remove(movieViewModel);
+            }
         }
 
-        private void ListView_ItemTapped(object sender, ItemTappedEventArgs e)
+        private async void ListView_ItemTapped(object sender, ItemTappedEventArgs e)
         {
-            Shell.Current.GoToAsync(nameof(MovieDetailPage), new Dictionary<string, object> { { "Movie", e.Item } });
+            if (e.Item != null)
+            {
+                await Shell.Current.GoToAsync(nameof(MovieDetailPage), new Dictionary<string, object> { { "Movie", e.Item } });
+            }
         }
     }
 }

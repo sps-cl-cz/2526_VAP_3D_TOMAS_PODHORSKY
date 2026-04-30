@@ -4,6 +4,9 @@
              Title="Seznam filmů"
              xmlns:c="clr-namespace:ProjectManager.Controls">
     <VerticalStackLayout>
+        <c:ThemeSwitch Margin="10" 
+                       Text="Tema" 
+                       Orientation="Vertical" />
         <c:FilteredSearchBar x:Name="MovieSearchBar" 
                              Placeholder="Hledat film" 
                              ItemsSource="{Binding Movies}"
