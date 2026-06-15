@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Maui",
+    "\\Maui\\maui3d",
+    "\\Maui\\maui3d\\Database",
+    "\\Maui\\maui3d\\Models",
+    "\\Maui\\ProjectManager",
+    "\\Maui\\ProjectManager\\Controls",
+    "\\Maui\\ProjectManager\\Models",
+    "\\Maui\\ProjectManager\\Pages",
+    "\\Maui\\ProjectManager\\ViewModels"
+  ],
+  "SelectedNode": "\\Maui\\maui3d\\ProjectManager.sln",
+  "PreviewInSolutionExplorer": false
+}

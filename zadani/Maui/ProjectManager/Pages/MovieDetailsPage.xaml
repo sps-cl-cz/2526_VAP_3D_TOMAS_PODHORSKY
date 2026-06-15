@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectManager.Pages.MovieDetailsPage"
+             xmlns:c="clr-namespace:ProjectManager.Controls"
+             Title="Detail filmu">
+	<ScrollView>
+		<VerticalStackLayout Padding="16" Spacing="16">
+
+			<!-- Obrázek nahoře -->
+			<Image Source="{Binding ImagePath}"
+                   HeightRequest="200" Aspect="AspectFill"
+                   HorizontalOptions="Fill">
+				<Image.Clip>
+					<RoundRectangleGeometry CornerRadius="12" Rect="0,0,400,200"/>
+				</Image.Clip>
+			</Image>
+
+			<Frame Style="{StaticResource CardStyle}">
+				<VerticalStackLayout Spacing="14">
+
+					<Label Text="Název" Style="{StaticResource FormLabelStyle}" />
+					<Entry Text="{Binding Title}" Placeholder="Název filmu"
+                           Style="{StaticResource FormEntryStyle}" />
+
+					<Label Text="Popis" Style="{StaticResource FormLabelStyle}" />
+					<Entry Text="{Binding Description}" Placeholder="Popis"
+                           Style="{StaticResource FormEntryStyle}" />
+
+					<Label Text="Rok vydání" Style="{StaticResource FormLabelStyle}" />
+					<Entry Text="{Binding Year}" Keyboard="Numeric"
+                           Style="{StaticResource FormEntryStyle}" />
+
+					<Label Text="Žánr" Style="{StaticResource FormLabelStyle}" />
+					<Entry Text="{Binding Genre}"
+                           Style="{StaticResource FormEntryStyle}" />
+
+					<Label Text="Hodnocení (0–10)" Style="{StaticResource FormLabelStyle}" />
+					<Entry Text="{Binding Rating}" Keyboard="Numeric"
+                           Style="{StaticResource FormEntryStyle}" />
+
+					<Label Text="Obrázek" Style="{StaticResource FormLabelStyle}" />
+					<c:ImagePicker ImagePath="{Binding ImagePath, Mode=TwoWay}" />
+
+				</VerticalStackLayout>
+			</Frame>
+
+			<Button Text="Uložit změny" Clicked="SaveButton_Clicked"
+                    Style="{StaticResource PrimaryButtonStyle}" />
+			<Button Text="Zpět" Clicked="BackButton_Clicked"
+                    Style="{StaticResource DeleteButtonStyle}" />
+		</VerticalStackLayout>
+	</ScrollView>
+</ContentPage>

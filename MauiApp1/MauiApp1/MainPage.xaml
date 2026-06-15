@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.MainPage"
+             Title="Moje aplikace">
+
+    <Grid RowDefinitions="50,50,50" ColumnDefinitions="50,50,50">
+
+        <Label
+            Text="Popisek"
+            x:Name="CountLabel"
+            Grid.Row="1" />
+
+        <Button
+            Grid.Column="2"
+            x:Name="CounterBtn"
+            Text="Click me"
+            BackgroundColor="Red"
+            Clicked="OnCounterClicked"
+            HorizontalOptions="Center"
+            VerticalOptions="Center" />
+
+    </Grid>
+
+</ContentPage>

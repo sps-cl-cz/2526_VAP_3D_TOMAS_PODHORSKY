@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\ProjectManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D59064F1-9783-4AFD-928C-8F5291BD0D54}|ProjectManager\\ProjectManager.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\projectmanager\\projectmanager\\pages\\newprojectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D59064F1-9783-4AFD-928C-8F5291BD0D54}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\pages\\newprojectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59064F1-9783-4AFD-928C-8F5291BD0D54}|ProjectManager\\ProjectManager.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\projectmanager\\projectmanager\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59064F1-9783-4AFD-928C-8F5291BD0D54}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59064F1-9783-4AFD-928C-8F5291BD0D54}|ProjectManager\\ProjectManager.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\projectmanager\\projectmanager\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59064F1-9783-4AFD-928C-8F5291BD0D54}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59064F1-9783-4AFD-928C-8F5291BD0D54}|ProjectManager\\ProjectManager.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\projectmanager\\projectmanager\\database\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59064F1-9783-4AFD-928C-8F5291BD0D54}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\database\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59064F1-9783-4AFD-928C-8F5291BD0D54}|ProjectManager\\ProjectManager.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\projectmanager\\projectmanager\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59064F1-9783-4AFD-928C-8F5291BD0D54}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59064F1-9783-4AFD-928C-8F5291BD0D54}|ProjectManager\\ProjectManager.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\projectmanager\\projectmanager\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59064F1-9783-4AFD-928C-8F5291BD0D54}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59064F1-9783-4AFD-928C-8F5291BD0D54}|ProjectManager\\ProjectManager.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\projectmanager\\projectmanager\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D59064F1-9783-4AFD-928C-8F5291BD0D54}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59064F1-9783-4AFD-928C-8F5291BD0D54}|ProjectManager\\ProjectManager.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\projectmanager\\projectmanager\\viewmodels\\projectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59064F1-9783-4AFD-928C-8F5291BD0D54}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\viewmodels\\projectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59064F1-9783-4AFD-928C-8F5291BD0D54}|ProjectManager\\ProjectManager.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\projectmanager\\projectmanager\\pages\\projectdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D59064F1-9783-4AFD-928C-8F5291BD0D54}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\pages\\projectdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewProjectPage.xaml",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\ProjectManager\\ProjectManager\\Pages\\NewProjectPage.xaml",
+              "RelativeDocumentMoniker": "ProjectManager\\Pages\\NewProjectPage.xaml",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\ProjectManager\\ProjectManager\\Pages\\NewProjectPage.xaml",
+              "RelativeToolTip": "ProjectManager\\Pages\\NewProjectPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-09T13:25:16.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\ProjectManager\\ProjectManager\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\ProjectManager\\ProjectManager\\MauiProgram.cs",
+              "RelativeToolTip": "ProjectManager\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:24:26.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\ProjectManager\\ProjectManager\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\ProjectManager\\ProjectManager\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ProjectManager\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:22:14.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\ProjectManager\\ProjectManager\\Database\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\Database\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\ProjectManager\\ProjectManager\\Database\\DatabaseService.cs",
+              "RelativeToolTip": "ProjectManager\\Database\\DatabaseService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wCsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:04:58.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\ProjectManager\\ProjectManager\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\ProjectManager\\ProjectManager\\Models\\Project.cs",
+              "RelativeToolTip": "ProjectManager\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:03:49.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\ProjectManager\\ProjectManager\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\ProjectManager\\ProjectManager\\MainPage.xaml.cs",
+              "RelativeToolTip": "ProjectManager\\MainPage.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T14:43:24.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\ProjectManager\\ProjectManager\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ProjectManager\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\ProjectManager\\ProjectManager\\MainPage.xaml",
+              "RelativeToolTip": "ProjectManager\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T10:15:18.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\ProjectManager\\ProjectManager\\ViewModels\\ProjectViewModel.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\ViewModels\\ProjectViewModel.cs",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\ProjectManager\\ProjectManager\\ViewModels\\ProjectViewModel.cs",
+              "RelativeToolTip": "ProjectManager\\ViewModels\\ProjectViewModel.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA9wCoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:12:35.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectDetailsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\ProjectManager\\ProjectManager\\Pages\\ProjectDetailsPage.xaml",
+              "RelativeDocumentMoniker": "ProjectManager\\Pages\\ProjectDetailsPage.xaml",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\ProjectManager\\ProjectManager\\Pages\\ProjectDetailsPage.xaml",
+              "RelativeToolTip": "ProjectManager\\Pages\\ProjectDetailsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-26T14:44:43.298Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

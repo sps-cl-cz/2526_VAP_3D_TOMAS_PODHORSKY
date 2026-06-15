@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\pi\u0161kvorky\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F53B6E96-49FE-42F3-A911-80F582A0C0E9}|pi\u0161kvorky\\pi\u0161kvorky.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\pi\u0161kvorky\\pi\u0161kvorky\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53B6E96-49FE-42F3-A911-80F582A0C0E9}|pi\u0161kvorky\\pi\u0161kvorky.csproj|solutionrelative:pi\u0161kvorky\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53B6E96-49FE-42F3-A911-80F582A0C0E9}|pi\u0161kvorky\\pi\u0161kvorky.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\pi\u0161kvorky\\pi\u0161kvorky\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F53B6E96-49FE-42F3-A911-80F582A0C0E9}|pi\u0161kvorky\\pi\u0161kvorky.csproj|solutionrelative:pi\u0161kvorky\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53B6E96-49FE-42F3-A911-80F582A0C0E9}|pi\u0161kvorky\\pi\u0161kvorky.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\pi\u0161kvorky\\pi\u0161kvorky\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53B6E96-49FE-42F3-A911-80F582A0C0E9}|pi\u0161kvorky\\pi\u0161kvorky.csproj|solutionrelative:pi\u0161kvorky\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53B6E96-49FE-42F3-A911-80F582A0C0E9}|pi\u0161kvorky\\pi\u0161kvorky.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\pi\u0161kvorky\\pi\u0161kvorky\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53B6E96-49FE-42F3-A911-80F582A0C0E9}|pi\u0161kvorky\\pi\u0161kvorky.csproj|solutionrelative:pi\u0161kvorky\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53B6E96-49FE-42F3-A911-80F582A0C0E9}|pi\u0161kvorky\\pi\u0161kvorky.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\pi\u0161kvorky\\pi\u0161kvorky\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53B6E96-49FE-42F3-A911-80F582A0C0E9}|pi\u0161kvorky\\pi\u0161kvorky.csproj|solutionrelative:pi\u0161kvorky\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53B6E96-49FE-42F3-A911-80F582A0C0E9}|pi\u0161kvorky\\pi\u0161kvorky.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\pi\u0161kvorky\\pi\u0161kvorky\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F53B6E96-49FE-42F3-A911-80F582A0C0E9}|pi\u0161kvorky\\pi\u0161kvorky.csproj|solutionrelative:pi\u0161kvorky\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53B6E96-49FE-42F3-A911-80F582A0C0E9}|pi\u0161kvorky\\pi\u0161kvorky.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\pi\u0161kvorky\\pi\u0161kvorky\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F53B6E96-49FE-42F3-A911-80F582A0C0E9}|pi\u0161kvorky\\pi\u0161kvorky.csproj|solutionrelative:pi\u0161kvorky\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\pi\u0161kvorky\\pi\u0161kvorky\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "pi\u0161kvorky\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\pi\u0161kvorky\\pi\u0161kvorky\\AppShell.xaml.cs",
+              "RelativeToolTip": "pi\u0161kvorky\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:08:25.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\pi\u0161kvorky\\pi\u0161kvorky\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "pi\u0161kvorky\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\pi\u0161kvorky\\pi\u0161kvorky\\MainPage.xaml.cs",
+              "RelativeToolTip": "pi\u0161kvorky\\MainPage.xaml.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:07:13.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\pi\u0161kvorky\\pi\u0161kvorky\\App.xaml",
+              "RelativeDocumentMoniker": "pi\u0161kvorky\\App.xaml",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\pi\u0161kvorky\\pi\u0161kvorky\\App.xaml",
+              "RelativeToolTip": "pi\u0161kvorky\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-05T15:07:07.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\pi\u0161kvorky\\pi\u0161kvorky\\App.xaml.cs",
+              "RelativeDocumentMoniker": "pi\u0161kvorky\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\pi\u0161kvorky\\pi\u0161kvorky\\App.xaml.cs",
+              "RelativeToolTip": "pi\u0161kvorky\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:07:05.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\pi\u0161kvorky\\pi\u0161kvorky\\MainPage.xaml",
+              "RelativeDocumentMoniker": "pi\u0161kvorky\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\pi\u0161kvorky\\pi\u0161kvorky\\MainPage.xaml",
+              "RelativeToolTip": "pi\u0161kvorky\\MainPage.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-05T15:07:03.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\pi\u0161kvorky\\pi\u0161kvorky\\AppShell.xaml",
+              "RelativeDocumentMoniker": "pi\u0161kvorky\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\pi\u0161kvorky\\pi\u0161kvorky\\AppShell.xaml",
+              "RelativeToolTip": "pi\u0161kvorky\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-05T15:06:58.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\pi\u0161kvorky\\pi\u0161kvorky\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "pi\u0161kvorky\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\pi\u0161kvorky\\pi\u0161kvorky\\MauiProgram.cs",
+              "RelativeToolTip": "pi\u0161kvorky\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:07:10.616Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

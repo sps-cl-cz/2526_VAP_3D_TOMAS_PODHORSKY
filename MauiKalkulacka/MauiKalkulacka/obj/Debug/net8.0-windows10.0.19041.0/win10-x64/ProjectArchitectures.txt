@@ -1,0 +1,1 @@
+C:\Users\tomas.podhorsky\Documents\Git\MauiKalkulacka\MauiKalkulacka\MauiKalkulacka.csproj;x64

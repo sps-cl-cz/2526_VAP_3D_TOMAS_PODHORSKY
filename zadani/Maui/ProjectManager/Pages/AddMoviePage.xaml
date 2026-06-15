@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectManager.Pages.AddMoviePage"
+             xmlns:c="clr-namespace:ProjectManager.Controls"
+             Title="Přidat film">
+	<ScrollView>
+		<VerticalStackLayout Padding="16" Spacing="16">
+			<Frame Style="{StaticResource CardStyle}">
+				<VerticalStackLayout Spacing="14">
+
+					<Label Text="Název" Style="{StaticResource FormLabelStyle}" />
+					<Entry x:Name="MovieTitle" Placeholder="Název filmu"
+                           Style="{StaticResource FormEntryStyle}" />
+
+					<Label Text="Popis" Style="{StaticResource FormLabelStyle}" />
+					<Entry x:Name="MovieDescription" Placeholder="Krátký popis"
+                           Style="{StaticResource FormEntryStyle}" />
+
+					<Label Text="Rok vydání" Style="{StaticResource FormLabelStyle}" />
+					<Entry x:Name="MovieYear" Placeholder="Např. 2023"
+                           Keyboard="Numeric"
+                           Style="{StaticResource FormEntryStyle}" />
+
+					<Label Text="Žánr" Style="{StaticResource FormLabelStyle}" />
+					<Entry x:Name="MovieGenre" Placeholder="Např. Akční"
+                           Style="{StaticResource FormEntryStyle}" />
+
+					<Label Text="Hodnocení (0–10)" Style="{StaticResource FormLabelStyle}" />
+					<Entry x:Name="MovieRating" Placeholder="Např. 8.5"
+                           Keyboard="Numeric"
+                           Style="{StaticResource FormEntryStyle}" />
+
+					<Label Text="Obrázek" Style="{StaticResource FormLabelStyle}" />
+					<c:ImagePicker ImagePath="{Binding ImagePath, Mode=TwoWay}" />
+
+				</VerticalStackLayout>
+			</Frame>
+
+			<Button Text="Přidat film" Clicked="Button_Clicked"
+                    Style="{StaticResource PrimaryButtonStyle}" />
+		</VerticalStackLayout>
+	</ScrollView>
+</ContentPage>

@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\moviemanager\\moviemanager\\controls\\themeswitch.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|solutionrelative:moviemanager\\controls\\themeswitch.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\moviemanager\\moviemanager\\database\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|solutionrelative:moviemanager\\database\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\moviemanager\\moviemanager\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|solutionrelative:moviemanager\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\moviemanager\\moviemanager\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|solutionrelative:moviemanager\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\moviemanager\\moviemanager\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|solutionrelative:moviemanager\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\moviemanager\\moviemanager\\controls\\themeswitch.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|solutionrelative:moviemanager\\controls\\themeswitch.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\moviemanager\\moviemanager\\controls\\imagepicker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|solutionrelative:moviemanager\\controls\\imagepicker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\moviemanager\\moviemanager\\controls\\imagepicker.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|solutionrelative:moviemanager\\controls\\imagepicker.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\moviemanager\\moviemanager\\controls\\filteredsearchbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|solutionrelative:moviemanager\\controls\\filteredsearchbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\moviemanager\\moviemanager\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|solutionrelative:moviemanager\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\moviemanager\\moviemanager\\viewmodels\\movieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|solutionrelative:moviemanager\\viewmodels\\movieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\moviemanager\\moviemanager\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|solutionrelative:moviemanager\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|c:\\users\\martin.radovanovic\\documents\\2526_vap_3d_martin_radovanovic\\maui\\moviemanager\\moviemanager\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF155F50-9FA0-4DB6-9F60-63A40F06C84D}|MovieManager\\MovieManager.csproj|solutionrelative:moviemanager\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\Database\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "MovieManager\\Database\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\Database\\DatabaseService.cs",
+              "RelativeToolTip": "MovieManager\\Database\\DatabaseService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T14:01:21.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MovieManager\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\MainPage.xaml.cs",
+              "RelativeToolTip": "MovieManager\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T13:57:44.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieManager\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieManager\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T13:57:25.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImagePicker.xaml",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\Controls\\ImagePicker.xaml",
+              "RelativeDocumentMoniker": "MovieManager\\Controls\\ImagePicker.xaml",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\Controls\\ImagePicker.xaml",
+              "RelativeToolTip": "MovieManager\\Controls\\ImagePicker.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-30T13:49:47.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MovieManager\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\AppShell.xaml",
+              "RelativeToolTip": "MovieManager\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-30T13:49:14.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThemeSwitch.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\Controls\\ThemeSwitch.xaml.cs",
+              "RelativeDocumentMoniker": "MovieManager\\Controls\\ThemeSwitch.xaml.cs",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\Controls\\ThemeSwitch.xaml.cs",
+              "RelativeToolTip": "MovieManager\\Controls\\ThemeSwitch.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T13:49:07.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThemeSwitch.xaml",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\Controls\\ThemeSwitch.xaml",
+              "RelativeDocumentMoniker": "MovieManager\\Controls\\ThemeSwitch.xaml",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\Controls\\ThemeSwitch.xaml",
+              "RelativeToolTip": "MovieManager\\Controls\\ThemeSwitch.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-30T13:48:41.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MovieManager\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\MainPage.xaml",
+              "RelativeToolTip": "MovieManager\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-30T13:43:07.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MovieManager\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\MauiProgram.cs",
+              "RelativeToolTip": "MovieManager\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:53:03.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\ViewModels\\MovieViewModel.cs",
+              "RelativeDocumentMoniker": "MovieManager\\ViewModels\\MovieViewModel.cs",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\ViewModels\\MovieViewModel.cs",
+              "RelativeToolTip": "MovieManager\\ViewModels\\MovieViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:53:01.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "MovieManager\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "MovieManager\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:52:57.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImagePicker.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\Controls\\ImagePicker.xaml.cs",
+              "RelativeDocumentMoniker": "MovieManager\\Controls\\ImagePicker.xaml.cs",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\Controls\\ImagePicker.xaml.cs",
+              "RelativeToolTip": "MovieManager\\Controls\\ImagePicker.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:52:51.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FilteredSearchBar.cs",
+              "DocumentMoniker": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\Controls\\FilteredSearchBar.cs",
+              "RelativeDocumentMoniker": "MovieManager\\Controls\\FilteredSearchBar.cs",
+              "ToolTip": "C:\\Users\\martin.radovanovic\\Documents\\2526_VAP_3D_MARTIN_RADOVANOVIC\\Maui\\MovieManager\\MovieManager\\Controls\\FilteredSearchBar.cs",
+              "RelativeToolTip": "MovieManager\\Controls\\FilteredSearchBar.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:52:46.828Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

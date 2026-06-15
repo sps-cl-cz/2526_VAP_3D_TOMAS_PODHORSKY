@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileApp.MainPage">
+
+    <VerticalStackLayout Padding="20" Spacing="12">
+        <Button Text="Načíst počasí dle polohy"
+        Clicked="OnLoadWeatherClicked" />
+
+        <Label x:Name="LocationLabel"
+        Text="{Binding Path=Place.DisplayName}"
+        FontSize="14" />
+
+        <Label x:Name="WeatherLabel"
+        Text="{Binding Path=Weather.CurrentWeather.Temperature}"
+        FontSize="16" />
+
+        <Image x:Name="WeatherIcon"
+        Source="{Binding Path=Weather.CurrentWeather.WeatherCode, Converter={StaticResource IconConverter}}"
+        WidthRequest="50" HeightRequest="50" />
+    </VerticalStackLayout>
+
+</ContentPage>
