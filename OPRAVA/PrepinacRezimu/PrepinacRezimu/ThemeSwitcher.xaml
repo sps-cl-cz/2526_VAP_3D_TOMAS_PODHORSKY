@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrepinacRezimu.ThemeSwitcher">
+
+    <HorizontalStackLayout Spacing="10" HorizontalOptions="Center" VerticalOptions="Center">
+        <Label Text="Světlý" VerticalOptions="Center" FontSize="18" />
+        <Switch x:Name="ModeSwitch" Toggled="ModeSwitch_Toggled" />
+        <Label Text="Tmavý" VerticalOptions="Center" FontSize="18" />
+    </HorizontalStackLayout>
+
+</ContentView>
